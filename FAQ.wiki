@@ -1,0 +1,25 @@
+#labels Featured,FAQ,Phase-Design
+  * *What is Zimsis?*
+
+    Zimsis is a packaging of [http://sourceforge.net/projects/mingw/files/MSYS MinGW MSYS] bash for Windows and some basic MSYS command line tools as a single ZIP file. You install by downloading the ZIP and unzipping.
+
+  * *What is your relationship with MinGW MSYS?*
+
+    None. I'm simply re-using their compiled binaries, and providing copies of their GPL'd source code.
+
+ * *Is Zimsis a full development environment?*
+
+    No, it isn't. It consists of bash, plus the following tools: basename, cat, chmod, cmp, comm, cp, cut, date, diff, dirname, echo, egrep, env, expr, false, fgrep, find, fold, grep, head, id, join, less, ln, ls, md5sum, mkdir, mv, od, paste, printf, ps, pwd, rm, rmdir, sed, sh, sleep, sort, split, stty, tail, tee, touch, tr, true, uname, uniq, wc, xargs, zip. These are the MSYS tools I use day-to-day - compilers, debuggers and editors I get from elsewhere.
+
+ * *What's your motivation for providing Zimsis?*
+
+    Purely selfish - I got fed up with the difficulty of installing the MSYS using the MinGW installers.
+
+ * *Do you provide source code?*
+
+    To comply with the GPL, there is an archive of the MSYS sources for the tools in the download section. However, if you want to build from source, I STRONGLY advise you to obtain the latest versions from the MSYS site.
+
+
+
+
+
