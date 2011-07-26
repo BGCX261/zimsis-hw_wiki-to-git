@@ -13,13 +13,11 @@
 
  * *What's your motivation for providing Zimsis?*
 
-    Purely selfish - I got fed up with the difficulty of installing the MSYS using the MinGW installers.
+    Purely selfish - I got fed up with the difficulty of installing MSYS using the MinGW installers.
 
  * *Do you provide source code?*
 
     To comply with the GPL, there is an archive of the MSYS sources for the tools in the download section. However, if you want to build from source, I STRONGLY advise you to obtain the latest versions from the MSYS site.
-
-
 
 
 
